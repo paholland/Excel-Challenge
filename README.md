@@ -1,6 +1,6 @@
 # Excel Project (Kickstart My Chart)
 
-   To organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
+            To organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
 
 Conditional Formatting (applied appropriately to the state and percent funded columns)
 Column Creation (all six columns were correctly created)
