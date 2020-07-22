@@ -1,4 +1,4 @@
-# Excel Project (Kickstart My Chart)
+## Excel Project (Kickstart My Chart)
 
             To organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
 
