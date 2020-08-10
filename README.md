@@ -14,4 +14,4 @@ Written Report (presented a cohesive written analysis that draw three conclusion
 
 Statistics (created calculations of mean, median, min, max, varience, and standard dev using Excel formulas; provided a brief and compelling justification of whether the mean or median better summarizes the data)
 
-Google Drive, Dropbox 
+### Excel, Google Drive, Dropbox 
